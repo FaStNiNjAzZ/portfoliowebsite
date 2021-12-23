@@ -1,0 +1,225 @@
+/*sections------------------------------------------------------------------- */
+body {
+    font-family: 'Shippori Antique B1', sans-serif;
+    font-size: 100%;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    background-color: rgb(25, 25, 25);
+}
+#wrapper {
+  max-width: 1280px;
+  margin-right: auto;
+  margin-left: auto;
+  background: rgb(40, 40, 40);
+}
+main  {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+article	{
+
+}
+aside	{
+}
+footer {
+}
+header {
+}
+.post	{
+}
+nav	{
+}
+.menu	{
+  background: rgb(25, 25, 25);
+  padding: 0;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.headercolour {
+    background: rgb(40, 40, 40);
+    color: white;
+    padding-bottom: 0.1%;
+    text-transform: uppercase;
+    font-weight: bold;
+    align-self: center;
+    font-family: 'Lato', sans-serif;
+}
+.gallery {
+    padding: 1%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    align-self: center;
+}
+
+.logo {
+    display:inline;
+    padding: 1%;
+    float:left;
+}
+
+/*headings------------------------------------------------------------------- */
+h1	{
+}
+h2	{
+}
+h3 	{
+}
+/*grouping------------------------------------------------------------------- */
+p {
+  font-size:1.25rem;
+  line-height: 1.5;
+  margin: 10px 0 10px 0;
+  
+ }
+blockquote	{
+}
+table   {
+}
+/*lists---------------------------------------------------------------------- */
+/*
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1px;
+  overflow: hidden;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: rgb(63, 63, 63);
+}
+*/
+ul.headerList {
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+}
+
+li.headerList {
+    float: left;
+}
+
+li a.headerList {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover.headerList {
+    background-color: rgb(63, 63, 63);
+}
+
+
+ul.headerListIcon {
+    list-style-type: none;
+    margin: 0;
+    padding: 1px;
+    overflow: hidden;
+
+}
+
+li.headerListIcon {
+
+}
+
+li a.headerListIcon {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 1%;
+    text-decoration: none;
+}
+
+li a:hover.headerListIcon {
+    background-color: rgb(63, 63, 63);
+}
+
+
+
+.buttonhover {
+    color: #ff0000;
+}
+
+img:hover.buttonhover {
+    filter: brightness(75%);
+
+}
+
+ol	{
+}
+dl	{
+}
+dt	{
+}
+dd	{
+}
+/*text------------------------------------------------------------------------ */
+em	{
+}
+strong	{
+}
+small	{
+}
+cite	{
+}
+time	{
+}
+/*image----------------------------------------------------------------------- */
+figure	{
+}
+figcaption	{
+}
+img	{
+}
+/*anchors--------------------------------------------------------------------- */
+a:link	{
+}
+a:visited {
+}
+a:hover {
+}
+a:active {
+}
+
+.centerText{
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+input {
+    display: block;
+}
+
+h1.padding{
+    padding-top:1%;
+}
+
+p.center{
+    text-align:center;
+    padding:1%;
+}
+
+p.listtext {
+    font-family: 'Lato', sans-serif;
+    display: inline-block;
+    text-align: center;
+    padding-left: 1%;
+    font-size: 300%;
+}
