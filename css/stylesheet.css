@@ -7,7 +7,7 @@ body {
     background-color: rgb(25, 25, 25);
 }
 #wrapper {
-  max-width: 1280px;
+  max-width: 99%;
   margin-right: auto;
   margin-left: auto;
   background: rgb(40, 40, 40);
@@ -42,7 +42,7 @@ nav	{
     text-transform: uppercase;
     font-weight: bold;
     align-self: center;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 .gallery {
     padding: 1%;
